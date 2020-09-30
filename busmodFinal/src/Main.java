@@ -20,7 +20,6 @@ import javax.swing.plaf.basic.BasicComboBoxUI;
 
 public class Main extends JFrame
 {
-    
     /**
      * @param args the command line arguments
      */
